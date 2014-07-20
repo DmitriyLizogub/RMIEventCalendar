@@ -1,4 +1,4 @@
 RMIEventCalendar
 ================
 
-EventClarendar based on RMI client server architecture
+Event Calendar based on RMI client/service architecture
